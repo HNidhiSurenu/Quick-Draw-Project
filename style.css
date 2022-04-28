@@ -1,0 +1,11 @@
+body
+{background-color: rgb(241, 171, 243);}
+#score
+{font-size: 30px;
+margin-left:-1000px;}
+#timer
+{font-size: 30px;
+margin-left:100px;}
+#sketchtobedrawn
+{font-size: 40px;
+color: blueviolet;}
